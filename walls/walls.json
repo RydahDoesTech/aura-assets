@@ -7,7 +7,7 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Art"
-  },  
+  },
   {
     "name": "Violet Sky",
     "author": "Les Argonautes",
@@ -26,16 +26,52 @@
     "downloadable": true,
     "collections": "Art"
   },
-    {
+  {
     "name": "Material Blend",
     "author": "Rydah",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/material/sketch1693877297312-01.jpeg",
     "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/thumbs/7e5a0ee6d4b065ce.webp",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Exclusive,Material"
+    "collections": "Aura,Material"
   },
-    {
+  {
+    "name": "Prism Arches",
+    "author": "RydahDoesTech",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/aura/prism-arches.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/a24b2790be9b8bbb.webp",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art,Aura"
+  },
+  {
+    "name": "Pastel Orbit",
+    "author": "RydahDoesTech",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/pastel-orbit.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/ea78a933cba586c0.webp",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art,Aura"
+  },
+  {
+    "name": "Dusk Horizon",
+    "author": "RydahDoesTech",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/dusk-horizon.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/98505438be5083d8.webp",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Gradients,Aura"
+  },
+  {
+    "name": "Midnight Arcs",
+    "author": "RydahDoesTech",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/midnight-arcs.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/3e93243f31307491.webp",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art,Aura"
+  },
+  {
     "name": "Green Aerial",
     "author": "Karsten Winegeart",
     "url": "https://images.unsplash.com/photo-1695758891556-f70f65a704b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg",
@@ -78,7 +114,7 @@
     "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/thumbs/e03b66eb1db4b099.webp",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Simple Colors,Exclusive"
+    "collections": "Simple Colors,Aura"
   },
   {
     "name": "Sage Green 2",
@@ -87,7 +123,7 @@
     "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/thumbs/feb3d5adc5c15e0b.webp",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Simple Colors,Exclusive,Gradients"
+    "collections": "Simple Colors,Aura,Gradients"
   },
   {
     "name": "Green Parallax",
@@ -96,7 +132,7 @@
     "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/thumbs/4ac79a057fd29f32.webp",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Exclusive,Parallax"
+    "collections": "Aura,Parallax"
   },
   {
     "name": "Green Parallax 2",
@@ -105,7 +141,7 @@
     "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/thumbs/83e8251e1561aea7.webp",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Exclusive,Parallax"
+    "collections": "Aura,Parallax"
   },
   {
     "name": "Grey Blue Parallax",
@@ -114,7 +150,7 @@
     "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/thumbs/ff8cb0bda9cffb01.webp",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Exclusive,Parallax"
+    "collections": "Aura,Parallax"
   },
   {
     "name": "Oceanside",
@@ -133,7 +169,7 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Waves"
-  },  
+  },
   {
     "name": "Sea Weed",
     "author": "Unknown",
@@ -377,7 +413,6 @@
     "downloadable": true,
     "collections": "Simple Colors"
   },
-
   {
     "name": "11",
     "author": "Rydah",
@@ -477,7 +512,7 @@
     "downloadable": true,
     "collections": "Nature,Mountains,Amoled"
   },
-    {
+  {
     "name": "Green Mountains",
     "author": "IceUniverse",
     "url": "https://i.imgur.com/n1FzguD.jpg",
@@ -486,7 +521,7 @@
     "downloadable": true,
     "collections": "Nature,Mountains,Amoled"
   },
-    {
+  {
     "name": "Ruby Red Mountains",
     "author": "IceUniverse",
     "url": "https://i.imgur.com/EaM8PmJ.jpg",
@@ -495,7 +530,7 @@
     "downloadable": true,
     "collections": "Nature,Mountains,Amoled"
   },
-    {
+  {
     "name": "Golden Mountains",
     "author": "IceUniverse",
     "url": "https://i.imgur.com/64sF7YG.jpg",
@@ -504,7 +539,7 @@
     "downloadable": true,
     "collections": "Nature,Mountains,Amoled"
   },
-    {
+  {
     "name": "Catching Waves",
     "author": "Rydah",
     "url": "https://i.imgur.com/QgGPk86.jpg",
@@ -513,7 +548,7 @@
     "downloadable": true,
     "collections": "Waves"
   },
-    {
+  {
     "name": "Green Grains",
     "author": "Rydah",
     "url": "https://i.imgur.com/YAmEecf.png",
@@ -522,7 +557,7 @@
     "downloadable": true,
     "collections": "Gradients"
   },
-    {
+  {
     "name": "Atlantic Ocean",
     "author": "Rydah",
     "url": "https://i.imgur.com/mp8XNDE.jpg",
@@ -540,7 +575,7 @@
     "downloadable": true,
     "collections": "Nature,Sand"
   },
-{
+  {
     "name": "Shanghai Botanical Garden",
     "author": "Ren Ran",
     "url": "https://images.unsplash.com/photo-1491147334573-44cbb4602074?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -549,7 +584,7 @@
     "downloadable": true,
     "collections": "Nature,Plants"
   },
-{
+  {
     "name": "Experimental Movements",
     "author": "Shamil' Khasaev",
     "url": "https://images.unsplash.com/photo-1669748801600-6bef25f6e8a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -585,7 +620,7 @@
     "downloadable": true,
     "collections": "Experimental,Waves"
   },
-{
+  {
     "name": "Digital Smoke",
     "author": "Mahdi Bafande",
     "url": "https://images.unsplash.com/photo-1668871927572-ea6f38625f01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -612,7 +647,7 @@
     "downloadable": true,
     "collections": "Movement,AMOLED"
   },
-{
+  {
     "name": "Red Leafs",
     "author": "Alecc Gomes",
     "url": "https://images.unsplash.com/photo-1669154309624-8dce6f451c9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -657,7 +692,7 @@
     "downloadable": true,
     "collections": "Nature,Plants"
   },
-    {
+  {
     "name": "Mountain Rise",
     "author": "Regod Kornyei",
     "url": "https://images.unsplash.com/photo-1664481775123-9beee7b08d88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -666,7 +701,7 @@
     "downloadable": true,
     "collections": "Nature,Mountains"
   },
-    {
+  {
     "name": "Life With a Twist",
     "author": "Barbara Kacharava",
     "url": "https://images.unsplash.com/photo-1662554060049-936aeea1dc43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -675,7 +710,7 @@
     "downloadable": true,
     "collections": "Architecture"
   },
-    {
+  {
     "name": "Metal Grate",
     "author": "Filipe Dos Santos Mendes",
     "url": "https://images.unsplash.com/photo-1669555051308-8c3e5daab9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -684,7 +719,7 @@
     "downloadable": true,
     "collections": "Architecture,Black & White"
   },
-    {
+  {
     "name": "Night Light",
     "author": "Noam Cohen",
     "url": "https://images.unsplash.com/photo-1669393754721-701294d8a6ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -693,7 +728,7 @@
     "downloadable": true,
     "collections": "Architecture"
   },
-    {
+  {
     "name": "Grey Roads",
     "author": "Faye Yu",
     "url": "https://images.unsplash.com/photo-1666618789758-a9ad1d04373f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -702,7 +737,7 @@
     "downloadable": true,
     "collections": "Nature,Black & White"
   },
-    {
+  {
     "name": "Travelling Train",
     "author": "Sohaim Siddiquee",
     "url": "https://images.unsplash.com/photo-1669565177480-3edd86607cd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -711,7 +746,7 @@
     "downloadable": true,
     "collections": "Movement,AMOLED"
   },
-    {
+  {
     "name": "Road Life",
     "author": "Mahdi Bafande",
     "url": "https://images.unsplash.com/photo-1666954797286-5d3fea1a68c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -720,7 +755,7 @@
     "downloadable": true,
     "collections": "Movement"
   },
-    {
+  {
     "name": "Plants on the Wall",
     "author": "Racim Amr",
     "url": "https://images.unsplash.com/photo-1667518612813-8dd34e6b8bf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -729,7 +764,7 @@
     "downloadable": true,
     "collections": "Nature,Plants"
   },
-    {
+  {
     "name": "Yekaterinburg",
     "author": "Ainur Khakimov",
     "url": "https://images.unsplash.com/photo-1654535449378-6c3f94932aaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -738,7 +773,7 @@
     "downloadable": true,
     "collections": "Gradients,Architecture"
   },
-    {
+  {
     "name": "Turquoise Nights",
     "author": "Jake Noble",
     "url": "https://images.unsplash.com/photo-1671885772959-f968cfecff8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg",
@@ -747,7 +782,7 @@
     "downloadable": true,
     "collections": "Architecture"
   },
-    {
+  {
     "name": "London Skies",
     "author": "Matteo Baronio",
     "url": "https://images.unsplash.com/photo-1645988474495-92c50c44a985?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -909,7 +944,7 @@
     "downloadable": true,
     "collections": "Art,Material"
   },
-    {
+  {
     "name": "Flip 6 Black",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Black%20Flip6.jpg",
@@ -918,7 +953,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Flip 6 Silver",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Flip6.jpg",
@@ -927,7 +962,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Flip 6 Green",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Green%20Flip6.jpg",
@@ -936,7 +971,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Flip 6 Blue",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Flip6.jpg",
@@ -945,7 +980,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Flip 6 Orange",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Orange%20Flip6.jpg",
@@ -954,7 +989,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Flip 6 Yellow",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Yellow%20Flip6.jpg",
@@ -963,7 +998,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Fold 6 Black",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Black%20Fold6.jpg",
@@ -972,7 +1007,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Fold 6 Silver",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Fold6.jpg",
@@ -981,7 +1016,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Fold 6 Blue",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Fold6.jpg",
@@ -990,7 +1025,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Fold 6 Pink",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Pink%20Fold6.jpg",
@@ -1008,7 +1043,7 @@
     "downloadable": false,
     "collections": "Samsung"
   },
-    {
+  {
     "name": "Phantom Black 2",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_003.png",
@@ -1043,7 +1078,7 @@
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
-  },  
+  },
   {
     "name": "Cotton Flower 2",
     "author": "Samsung",
@@ -1188,7 +1223,7 @@
     "downloadable": true,
     "collections": "DBrand"
   },
-{
+  {
     "name": "Moon Crest",
     "author": "Marek Piwnicki",
     "url": "https://images.unsplash.com/photo-1679244746865-e6c82597b343?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
@@ -1197,7 +1232,7 @@
     "downloadable": true,
     "collections": "Mountains"
   },
-{
+  {
     "name": "Pipe Dreams",
     "author": "Cash Macanaya",
     "url": "https://images.unsplash.com/photo-1678446332668-301c5ea11739?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
@@ -1305,7 +1340,7 @@
     "downloadable": true,
     "collections": "Flowers"
   },
-    {
+  {
     "name": "Audi 1",
     "author": "Mattia Righetti",
     "url": "https://images.unsplash.com/photo-1503507420689-7b961cc77da5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg",
@@ -1314,7 +1349,7 @@
     "downloadable": true,
     "collections": "Cars"
   },
-    {
+  {
     "name": "Audi 2",
     "author": "Remy Loz",
     "url": "https://images.unsplash.com/photo-1629721303986-241a3d92b187?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg",
@@ -1332,7 +1367,7 @@
     "downloadable": true,
     "collections": "Art"
   },
-    {
+  {
     "name": "Fly Vibes",
     "author": "Karsten Winegeart",
     "url": "https://images.unsplash.com/photo-1731952161702-3c15716ce06e?q=80&w=2574.jpg",
@@ -1341,7 +1376,7 @@
     "downloadable": true,
     "collections": "Life Around Me"
   },
-    {
+  {
     "name": "Snowfield 2",
     "author": "Martin Masson",
     "url": "https://images.unsplash.com/photo-1732287931034-c4cc1b06de6a?q=80&w=2574.jpg",
@@ -1350,7 +1385,7 @@
     "downloadable": true,
     "collections": "Mountains"
   },
-    {
+  {
     "name": "Street Lights",
     "author": "Pars Sahin",
     "url": "https://images.unsplash.com/photo-1733860694060-e10fabd4e2b1?q=80&w=2574.jpg",
@@ -1359,7 +1394,7 @@
     "downloadable": true,
     "collections": "In The City"
   },
-    {
+  {
     "name": "Green Hummungbird",
     "author": "Bob Brewer",
     "url": "https://images.unsplash.com/photo-1734452465230-f571caa4d7d5?q=80&w=2670.jpg",
@@ -1376,32 +1411,6 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": ""
-  },
-  {
-    "name": "Pastel Orbit",
-    "author": "RydahDoesTech",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/pastel-orbit.png",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/ea78a933cba586c0.webp",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Art,Exclusive"
-  },
-  {
-    "name": "Dusk Horizon",
-    "author": "RydahDoesTech",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/dusk-horizon.png",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/98505438be5083d8.webp",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Gradients,Exclusive"
-  },
-  {
-    "name": "Midnight Arcs",
-    "author": "RydahDoesTech",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/midnight-arcs.png",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/3e93243f31307491.webp",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Art,Exclusive"
   }
 ]
+
