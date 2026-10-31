@@ -1376,5 +1376,32 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": ""
+  },
+  {
+    "name": "Pastel Orbit",
+    "author": "RydahDoesTech",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/pastel-orbit.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/ea78a933cba586c0.webp",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art,Exclusive"
+  },
+  {
+    "name": "Dusk Horizon",
+    "author": "RydahDoesTech",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/dusk-horizon.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/98505438be5083d8.webp",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Gradients,Exclusive"
+  },
+  {
+    "name": "Midnight Arcs",
+    "author": "RydahDoesTech",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/assets/exclusive/midnight-arcs.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/aura-assets/main/walls/thumbs/3e93243f31307491.webp",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art,Exclusive"
   }
 ]
